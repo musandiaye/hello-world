@@ -1,0 +1,4 @@
+int main() {
+q=2;
+return;
+}
